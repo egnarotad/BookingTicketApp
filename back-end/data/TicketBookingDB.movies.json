@@ -29,12 +29,12 @@
   },
   "VoteAverage": 8.5,
   "VoteCount": 1000,
-  "__v": 9,
+  "__v": 11,
   "createdAt": {
     "$date": "2025-07-11T07:26:55.205Z"
   },
   "updatedAt": {
-    "$date": "2025-07-15T07:18:04.862Z"
+    "$date": "2025-07-16T17:34:50.934Z"
   }
 },
 {
@@ -101,7 +101,11 @@
     "$oid": "68613674e6eb4fb4984092cc"
   },
   "VoteAverage": 8,
-  "VoteCount": 800
+  "VoteCount": 800,
+  "updatedAt": {
+    "$date": "2025-07-20T12:27:33.682Z"
+  },
+  "__v": 12
 },
 {
   "_id": {
@@ -283,7 +287,7 @@
   "PosterPath": "https://image.tmdb.org/t/p/w780/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
   "BackgroundImagePath": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
   "StatusID": {
-    "$oid": "68613674e6eb4fb4984092cc"
+    "$oid": "687df546a80341811bccfd6f"
   },
   "VoteAverage": 8.4,
   "VoteCount": 16251,
@@ -321,18 +325,18 @@
   "Trailer": "https://www.youtube.com/watch?v=U0D3AOldjMU&ab_channel=MarvelEntertainment",
   "PosterPath": "https://image.tmdb.org/t/p/w780/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
   "BackgroundImagePath": "https://image.tmdb.org/t/p/w780/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
-  "StatusID": {
-    "$oid": "68613674e6eb4fb4984092cc"
-  },
   "VoteAverage": 7.331,
   "VoteCount": 22316,
   "createdAt": {
     "$date": "2025-07-15T07:00:50.784Z"
   },
   "updatedAt": {
-    "$date": "2025-07-15T07:00:50.784Z"
+    "$date": "2025-07-21T10:37:35.854Z"
   },
-  "__v": 0
+  "__v": 0,
+  "StatusID": {
+    "$oid": "687df546a80341811bccfd6f"
+  }
 },
 {
   "_id": {
@@ -358,7 +362,7 @@
   "PosterPath": "https://image.tmdb.org/t/p/w780/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
   "BackgroundImagePath": "https://image.tmdb.org/t/p/w780/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
   "StatusID": {
-    "$oid": "68613674e6eb4fb4984092cc"
+    "$oid": "687df546a80341811bccfd6f"
   },
   "VoteAverage": 6.44,
   "VoteCount": 14534,
@@ -400,7 +404,7 @@
   "PosterPath": "https://image.tmdb.org/t/p/w780/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
   "BackgroundImagePath": "https://image.tmdb.org/t/p/w780/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
   "StatusID": {
-    "$oid": "68613674e6eb4fb4984092cc"
+    "$oid": "687df546a80341811bccfd6f"
   },
   "VoteAverage": 7.9,
   "VoteCount": 20896,
@@ -408,7 +412,46 @@
     "$date": "2025-07-15T07:05:29.154Z"
   },
   "updatedAt": {
-    "$date": "2025-07-15T07:05:29.154Z"
+    "$date": "2025-07-21T10:37:13.447Z"
   },
-  "__v": 0
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "687d0d872e7dc5880850c248"
+  },
+  "Name": "Guardians of the Galaxy",
+  "Director": "James Gunn",
+  "Genres": [
+    {
+      "$oid": "68613674e6eb4fb4984092d6"
+    },
+    {
+      "$oid": "68613674e6eb4fb4984092d7"
+    },
+    {
+      "$oid": "687389db9457255ef4f1654c"
+    }
+  ],
+  "Premiere": {
+    "$date": "2014-07-30T00:00:00.000Z"
+  },
+  "Duration": 122,
+  "Language": "English",
+  "Description": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser",
+  "Trailer": "https://www.youtube.com/watch?v=d96cjJhvlMA&ab_channel=MarvelEntertainment",
+  "PosterPath": "https://image.tmdb.org/t/p/w780/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+  "BackgroundImagePath": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+  "VoteAverage": 7.905,
+  "VoteCount": 28681,
+  "createdAt": {
+    "$date": "2025-07-20T15:38:47.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-20T15:38:47.290Z"
+  },
+  "__v": 0,
+  "StatusID": {
+    "$oid": "687df546a80341811bccfd6f"
+  }
 }]
