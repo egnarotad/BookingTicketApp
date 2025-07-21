@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6870bcbf6cfd96ceb4c19e09"
+  },
+  "Name": "CGV Vincom ",
+  "PlaceID": {
+    "$oid": "68613674e6eb4fb4984092d1"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T07:26:55.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-14T14:42:36.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0a"
+  },
+  "Name": "Lotte Mart",
+  "PlaceID": {
+    "$oid": "68613674e6eb4fb4984092d2"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T07:26:55.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-14T11:20:56.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68738228ac19ff3cc5e602f8"
+  },
+  "Name": "CGV Times City",
+  "PlaceID": {
+    "$oid": "68613674e6eb4fb4984092d1"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T09:53:44.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-13T18:11:26.154Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,5103 @@
+[{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39086"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e038"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39087"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e039"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39088"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39089"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e040"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3908f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e041"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39090"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e042"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39091"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e043"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39092"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e044"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39093"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e045"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39094"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e046"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39095"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e047"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39096"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e048"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39097"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e049"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39098"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39099"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e050"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3909f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e051"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e052"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e053"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e054"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e055"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e056"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e057"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e058"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a7"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e059"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390a9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390aa"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ab"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ac"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ad"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ae"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e060"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390af"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e061"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e062"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e063"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e064"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e065"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e066"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e067"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e068"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b7"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e069"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390b9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ba"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390bb"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390bc"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390bd"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390be"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e070"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390bf"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e071"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e072"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e073"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e074"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e075"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e076"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e077"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e078"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c7"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e079"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390c9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ca"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390cb"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390cc"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390cd"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ce"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e080"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390cf"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e081"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e082"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e083"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e084"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e085"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e086"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e087"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e088"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e038"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390d9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e039"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390da"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390db"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390dc"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390dd"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390de"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390df"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e040"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e041"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e042"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e043"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e044"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e045"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e046"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e7"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e047"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e048"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390e9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e049"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ea"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390eb"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ec"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ed"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ee"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ef"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f0"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e050"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f1"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e051"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f2"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e052"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f3"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e053"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f4"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e054"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f5"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e055"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f6"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e056"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f7"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e057"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f8"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e058"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390f9"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e059"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390fa"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390fb"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390fc"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390fd"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390fe"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca390ff"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39100"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e060"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39101"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e061"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39102"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e062"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39103"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e063"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39104"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e064"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39105"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e065"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39106"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e066"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39107"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e067"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39108"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e068"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39109"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e069"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3910f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39110"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e070"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39111"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e071"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39112"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e072"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39113"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e073"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39114"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e074"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39115"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e075"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39116"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e076"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39117"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e077"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39118"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e078"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39119"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e079"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3911f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39120"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e080"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39121"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e081"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39122"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e082"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39123"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e083"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39124"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e084"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39125"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e085"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39126"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e086"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39127"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e087"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39128"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e088"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e038"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e039"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3912f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39130"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39131"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e03f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39132"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e040"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39133"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e041"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39134"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e042"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39135"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e043"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39136"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e044"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39137"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e045"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39138"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e046"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39139"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e047"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e048"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e049"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3913f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39140"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39141"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e04f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39142"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e050"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39143"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e051"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39144"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e052"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39145"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e053"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39146"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e054"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39147"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e055"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39148"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e056"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39149"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e057"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e058"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e059"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3914f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39150"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39151"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e05f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39152"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e060"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39153"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e061"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39154"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e062"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39155"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e063"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39156"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e064"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39157"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e065"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39158"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e066"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39159"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e067"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e068"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e069"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3915f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39160"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39161"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e06f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39162"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e070"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39163"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e071"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39164"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e072"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39165"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e073"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39166"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e074"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39167"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e075"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39168"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e076"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39169"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e077"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e078"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916b"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e079"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916c"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916d"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07b"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916e"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07c"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3916f"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07d"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39170"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07e"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39171"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e07f"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39172"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e080"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39173"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e081"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39174"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e082"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39175"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e083"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39176"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e084"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39177"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e085"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39178"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e086"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39179"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e087"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca3917a"
+  },
+  "ScreeningID": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "SeatID": {
+    "$oid": "6877a48e573749ebe636e088"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.066Z"
+  }
+}]

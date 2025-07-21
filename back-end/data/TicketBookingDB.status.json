@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "StatusName": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-29T12:49:56.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-29T12:49:56.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68613674e6eb4fb4984092cd"
+  },
+  "StatusName": "Inactive",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-29T12:49:56.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-29T12:49:56.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68613674e6eb4fb4984092cf"
+  },
+  "StatusName": "Booked",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-29T12:49:56.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-29T12:49:56.758Z"
+  }
+}]

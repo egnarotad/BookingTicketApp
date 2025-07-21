@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39080"
+  },
+  "MovieID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0c"
+  },
+  "RoomID": {
+    "$oid": "687145ca18ee88e833125db4"
+  },
+  "ScreenTypeID": {
+    "$oid": "68613674e6eb4fb4984092db"
+  },
+  "TimeSlotID": {
+    "$oid": "68613674e6eb4fb4984092df"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39081"
+  },
+  "MovieID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0d"
+  },
+  "RoomID": {
+    "$oid": "687145ca18ee88e833125db5"
+  },
+  "ScreenTypeID": {
+    "$oid": "68613674e6eb4fb4984092dc"
+  },
+  "TimeSlotID": {
+    "$oid": "68613674e6eb4fb4984092e1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ec8e5d9803b84ca39082"
+  },
+  "MovieID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0c"
+  },
+  "RoomID": {
+    "$oid": "687145ca18ee88e833125db4"
+  },
+  "ScreenTypeID": {
+    "$oid": "68613674e6eb4fb4984092db"
+  },
+  "TimeSlotID": {
+    "$oid": "68613674e6eb4fb4984092e1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T18:16:46.011Z"
+  }
+}]

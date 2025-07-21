@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "687145ca18ee88e833125db4"
+  },
+  "Name": "Room CGV 1",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e09"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T17:11:38.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T07:10:35.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687145ca18ee88e833125db5"
+  },
+  "Name": "Room Lotte 2",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T17:11:38.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T17:11:38.432Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68739f415177131096a4aeff"
+  },
+  "Name": "Room Times 1",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "68738228ac19ff3cc5e602f8"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T11:57:53.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T17:45:01.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68739f415177131096a4af01"
+  },
+  "Name": "Room Times 2",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "68738228ac19ff3cc5e602f8"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-13T11:57:53.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T17:45:01.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6874e7fdea6d848dae6192bf"
+  },
+  "Name": "Room Lotte 1",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e0a"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-14T11:20:29.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-14T11:22:28.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6874eaf0ea6d848dae619d8d"
+  },
+  "Name": "Room CGV 2",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e09"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-14T11:33:04.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T17:05:41.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6877e432f2c725bfc8975d01"
+  },
+  "Name": "Room CGV Vincom",
+  "Capacity": 81,
+  "CinemaID": {
+    "$oid": "68738228ac19ff3cc5e602f8"
+  },
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "createdAt": {
+    "$date": "2025-07-16T17:41:06.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T17:41:06.322Z"
+  },
+  "__v": 0
+}]

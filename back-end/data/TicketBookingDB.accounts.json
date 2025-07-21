@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "687145ca18ee88e833125db1"
+  },
+  "UserID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e06"
+  },
+  "Password": "$2b$10$tAD/ZTgliJkP3eRXkyGVi./z27UWeS7t3gKPT2ySiDk72mboWgFBi",
+  "Role": "user",
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T17:11:38.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T17:11:38.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687145ca18ee88e833125db2"
+  },
+  "UserID": {
+    "$oid": "6870bcbf6cfd96ceb4c19e07"
+  },
+  "Password": "$2b$10$Q28skgPEM71MMtVEkPkxaOmWzidOoqJcMPFVoXFC2oXJuVnydm3yC",
+  "Role": "admin",
+  "StatusID": {
+    "$oid": "68613674e6eb4fb4984092cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T17:11:38.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T17:11:38.428Z"
+  }
+}]
