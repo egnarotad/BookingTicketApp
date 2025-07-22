@@ -6,7 +6,7 @@ const User = require('../models/user.model');
 // Đăng ký tài khoản mới (tạo user + account)
 exports.register = async (req, res, next) => {
     try {
-        const { name, dob, mail, phone, placeId, password, role = 'user' } = req.body;
+        const { name, dob, mail, phone, placeId, password, role = 'user', statusId } = req.body;
         // Validate email
         const emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
         if (!emailRegex.test(mail)) {
@@ -39,7 +39,7 @@ exports.register = async (req, res, next) => {
         // Hash password
         const hashPassword = await bcryptjs.hash(password, 10);
         // Tạo account mới
-        const newAccount = new Account({ UserID: user._id, Password: hashPassword, Role: role });
+        const newAccount = new Account({ UserID: user._id, Password: hashPassword, Role: role, StatusID: statusId });
         await newAccount.save();
         res.status(201).json({ message: 'Register successful!' });
     } catch (error) {

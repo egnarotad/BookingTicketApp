@@ -9,9 +9,11 @@ import { getPlaces, createCinema, updateCinema, getStatusList, createRoom } from
 const ManageCinemaScreen = ({ navigation, route }) => {
   const cinema = route.params?.cinema;
   const cinemaId = cinema?._id;
+  const isAdd = route.params?.isAdd;
   const [name, setName] = useState(cinema?.Name || '');
   const [placeId, setPlaceId] = useState(cinema?.PlaceID?._id || '');
   const [places, setPlaces] = useState([]);
+  const [createdCinemaId, setCreatedCinemaId] = useState(null);
   const [loading, setLoading] = useState(false);
   // State cho rooms
   const [rooms, setRooms] = useState([{ Name: '', Capacity: '' }]);
@@ -37,9 +39,11 @@ const ManageCinemaScreen = ({ navigation, route }) => {
         // Add new
         const statusList = await getStatusList();
         const activeStatus = statusList.find(s => s.StatusName === 'Active');
-        await createCinema({ Name: name, PlaceID: placeId, StatusID: activeStatus?._id });
+        const newCinema = await createCinema({ Name: name, PlaceID: placeId, StatusID: activeStatus?._id });
+
+        setCreatedCinemaId(newCinema._id);
+        Alert.alert('Success', 'Created cinema successfully! Now you can add room(s).');
       }
-      navigation.navigate('Tab', { screen: 'MovieTheater' });
     } finally {
       setLoading(false);
     }
@@ -48,7 +52,7 @@ const ManageCinemaScreen = ({ navigation, route }) => {
   // Hàm tạo room
   const handleSaveRooms = async () => {
     // Có cinema trước khi add room vào cinema đó
-    if (!cinemaId) {
+    if (!createdCinemaId) {
       Alert.alert('Cinema not found!');
       return;
     }
@@ -72,10 +76,10 @@ const ManageCinemaScreen = ({ navigation, route }) => {
 
       // Nếu tất cả đều hợp lệ, tiến hành tạo
       for (const room of rooms) {
-        const result = await createRoom({
+        await createRoom({
           Name: room.Name,
           Capacity: Number(room.Capacity),
-          CinemaID: cinemaId,
+          CinemaID: createdCinemaId,
           StatusID: activeStatus?._id
         });
       }
@@ -110,39 +114,43 @@ const ManageCinemaScreen = ({ navigation, route }) => {
         <Text style={styles.saveButtonText}>{loading ? 'Saving...' : 'Save Cinema'}</Text>
       </TouchableOpacity>
 
-      <Text style={styles.sectionTitle}>Add Room(s)</Text>
-      {rooms.map((room, idx) => (
-        <View key={idx} style={styles.roomForm}>
-          <Text style={styles.label}>Room Name</Text>
-          <TextInput
-            style={styles.input}
-            value={room.Name}
-            // lặp qua từng phần tử của rooms, tìm ra room đang nhập theo index và thay đổi name còn các trường khác dữ nguyên
-            onChangeText={v => setRooms(r => r.map((rm, i) => i === idx ? { ...rm, Name: v } : rm))}
-          />
-          <Text style={styles.label}>Capacity</Text>
-          <TextInput
-            style={styles.input}
-            value={room.Capacity}
-            // lặp qua từng phần tử của rooms, tìm ra room đang nhập theo index và thay đổi capacity còn các trường khác dữ nguyên
-            onChangeText={v => setRooms(r => r.map((rm, i) => i === idx ? { ...rm, Capacity: v } : rm))} keyboardType="numeric" 
-            />
-          {/* chỉ hiển thị delete khi danh sách có nhiều hơn 1  */}
-          {rooms.length > 1 && (
-            // cập nhật lại mảng rooms với các phòng trừ phòng trùng với index
-            <TouchableOpacity style={styles.deleteRoomButton} onPress={() => setRooms(r => r.filter((_, i) => i !== idx))}>
-              <Text style={styles.deleteRoomButtonText}>Delete</Text>
-            </TouchableOpacity>
-          )}
-        </View>
-      ))}
-      {/* add thêm object room vào mảng rooms */}
-      <TouchableOpacity style={styles.addRoomButton} onPress={() => setRooms(r => [...r, { Name: '', Capacity: '' }])}>
-        <Text style={styles.addRoomButtonText}>More Room</Text>
-      </TouchableOpacity>
-      <TouchableOpacity style={styles.saveButton} onPress={handleSaveRooms}>
-        <Text style={styles.saveButtonText}>Save Room(s)</Text>
-      </TouchableOpacity>
+      {isAdd && (
+        <>
+          <Text style={styles.sectionTitle}>Add Room(s)</Text>
+          {rooms.map((room, idx) => (
+            <View key={idx} style={styles.roomForm}>
+              <Text style={styles.label}>Room Name</Text>
+              <TextInput
+                style={styles.input}
+                value={room.Name}
+                // lặp qua từng phần tử của rooms, tìm ra room đang nhập theo index và thay đổi name còn các trường khác dữ nguyên
+                onChangeText={v => setRooms(r => r.map((rm, i) => i === idx ? { ...rm, Name: v } : rm))}
+              />
+              <Text style={styles.label}>Capacity</Text>
+              <TextInput
+                style={styles.input}
+                value={room.Capacity}
+                // lặp qua từng phần tử của rooms, tìm ra room đang nhập theo index và thay đổi capacity còn các trường khác dữ nguyên
+                onChangeText={v => setRooms(r => r.map((rm, i) => i === idx ? { ...rm, Capacity: v } : rm))} keyboardType="numeric"
+              />
+              {/* chỉ hiển thị delete khi danh sách có nhiều hơn 1  */}
+              {rooms.length > 1 && (
+                // cập nhật lại mảng rooms với các phòng trừ phòng trùng với index
+                <TouchableOpacity style={styles.deleteRoomButton} onPress={() => setRooms(r => r.filter((_, i) => i !== idx))}>
+                  <Text style={styles.deleteRoomButtonText}>Delete</Text>
+                </TouchableOpacity>
+              )}
+            </View>
+          ))}
+          {/* add thêm object room vào mảng rooms */}
+          <TouchableOpacity style={styles.addRoomButton} onPress={() => setRooms(r => [...r, { Name: '', Capacity: '' }])}>
+            <Text style={styles.addRoomButtonText}>More Room</Text>
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.saveButton} onPress={handleSaveRooms}>
+            <Text style={styles.saveButtonText}>Save Room(s)</Text>
+          </TouchableOpacity>
+        </>
+      )}
     </ScrollView>
   );
 };

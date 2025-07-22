@@ -77,7 +77,7 @@ const MovieTheaterScreen = ({ navigation, route }) => {
               title={item.Name}
               subtitle={item.placeName}
               status={statusName}
-              onEdit={() => navigation.navigate('ManageCinema', { cinema: item })}
+              onEdit={() => navigation.navigate('ManageCinema', { cinema: item, isAdd: false })}
               onDelete={() => handleToggleStatus(item._id, statusName)}
               deleteLabel={toggleLabel}
             />
@@ -86,7 +86,7 @@ const MovieTheaterScreen = ({ navigation, route }) => {
       />
       <TouchableOpacity
         style={styles.addButton}
-        onPress={() => navigation.navigate('ManageCinema')}>
+        onPress={() => navigation.navigate('ManageCinema', { isAdd: true })}>
         <Text style={styles.addButtonText}>Add Cinema</Text>
       </TouchableOpacity>
     </View>

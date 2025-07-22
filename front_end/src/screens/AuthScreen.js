@@ -3,7 +3,7 @@ import { Dimensions, ImageBackground, ScrollView, StatusBar, StyleSheet, Text, T
 import { COLORS, FONTFAMILY, FONTSIZE, SPACING } from '../theme/theme';
 import AppHeader from '../components/AppHeader';
 import { useAuth } from '../context/AuthContext';
-import { getPlaces, loginAccount, registerAccount } from '../api/apicalls';
+import { getPlaces, loginAccount, registerAccount, getStatusList } from '../api/apicalls';
 import PhoneInput from '../components/PhoneInput';
 import PasswordInput from '../components/PasswordInput';
 import NameInput from '../components/NameInput';
@@ -25,9 +25,14 @@ const AuthScreen = ({ navigation }) => {
     const [showDatePicker, setShowDatePicker] = useState(false);
     const [places, setPlaces] = useState([]);
     const [selectedPlace, setSelectedPlace] = useState('');
-
+    const [allStatus, setAllStatus] = useState([]);
     const { login } = useAuth();
 
+    useEffect(() => {
+        getStatusList()
+            .then(data => setAllStatus(data))
+            .catch(() => setAllStatus([]));
+    }, []);
     // Clear error khi user thay đổi input
     const clearError = () => {
         if (error) setError('');
@@ -97,13 +102,15 @@ const AuthScreen = ({ navigation }) => {
                 return;
             }
             try {
-                const { ok, data } = await registerAccount({ 
-                    name: name.trim(), 
-                    mail: email.trim(), 
-                    dob, 
-                    phone: phone.trim(), 
-                    placeId: selectedPlace, 
-                    password 
+                const statusActive = allStatus.find(s => s.StatusName === 'Active');
+                const { ok, data } = await registerAccount({
+                    name: name.trim(),
+                    mail: email.trim(),
+                    dob,
+                    phone: phone.trim(),
+                    placeId: selectedPlace,
+                    password,
+                    statusId: statusActive?._id 
                 });
                 if (ok) {
                     // Đăng ký thành công, tự động đăng nhập
@@ -132,8 +139,8 @@ const AuthScreen = ({ navigation }) => {
         setShowDatePicker(false);
         if (selectedDate) {
             const today = new Date();
-            today.setHours(0,0,0,0);
-            selectedDate.setHours(0,0,0,0);
+            today.setHours(0, 0, 0, 0);
+            selectedDate.setHours(0, 0, 0, 0);
             if (selectedDate > today) {
                 // Báo lỗi nếu ngày vượt quá hiện tại
                 Alert.alert('Invalid Date', 'Date of birth cannot be in the future.');
@@ -206,11 +213,11 @@ const AuthScreen = ({ navigation }) => {
                     <TouchableOpacity style={styles.authButton} onPress={handleAuth}>
                         <Text style={styles.authButtonText}>{isLogin ? 'Login' : 'Register'}</Text>
                     </TouchableOpacity>
-                    
+
                     {error ? (
                         <Text style={styles.errorText}>{error}</Text>
                     ) : null}
-                    
+
                     <TouchableOpacity onPress={() => {
                         setIsLogin(!isLogin);
                         setError(''); // Clear error khi chuyển mode

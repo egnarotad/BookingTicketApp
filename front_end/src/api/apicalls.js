@@ -188,7 +188,7 @@ export const createCinema = async (payload) => {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + token },
     body: JSON.stringify(payload)
-  });
+  }).then(res => res.json());
 };
 
 export const updateCinema = async (cinemaId, payload) => {
